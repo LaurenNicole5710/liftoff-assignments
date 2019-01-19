@@ -10,29 +10,29 @@ The project was motivated by the clients' desire to promote Food Truck Co. X's v
 and to expand its customer base. 
 
 ### Features
--Homepage: Users will be able to view the web page with links to a calendar, map, 
+- Homepage: Users will be able to view the web page with links to a calendar, map, 
 menu and ordering, about, blog/review, login and SMS signup. 
 
--User Login: Customers will be able to login and create an account. Owner will be able 
+- User Login: Customers will be able to login and create an account. Owner will be able 
 to login and update the menu.
 
--Online ordering: Users will be able to place an online order and pay via PayPal.
+- Online ordering: Users will be able to place an online order and pay via PayPal.
 
--Map: Users will be able to view where Food Truck X is currently located.
+- Map: Users will be able to view where Food Truck X is currently located.
 
--SMS: Users will be able to sign-up and receive promos and location updates via SMS.
+- SMS: Users will be able to sign-up and receive promos and location updates via SMS.
 
 
 ### Technologies
--C#/ASP.NETCore/Razor Templates
+- C#/ASP.NETCore/Razor Templates
 
--Entity Framework/SQL Server LocalDB
+- Entity Framework/SQL Server LocalDB
 
--PayPal
+- PayPal
 
--SMS API
+- SMS API
 
--Map API
+- Map API
 
 ### What I'll Have to Learn
 Personally, I will have to learn more about APIs, their implementation and which ones would
