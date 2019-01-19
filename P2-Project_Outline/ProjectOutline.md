@@ -1,10 +1,4 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
-
-## Submission Instructions
 
 ### Overview
 Our group project will be a web application for Food Truck Co. X where customers 
@@ -16,21 +10,29 @@ The project was motivated by the clients' desire to promote Food Truck Co. X's v
 and to expand its customer base. 
 
 ### Features
-Homepage: Users will be able to view the web page with links to a calendar, map, 
-menu, about, blog/review, 
-User Login: Customers will be able to login and create an account. Owner will be able 
+-Homepage: Users will be able to view the web page with links to a calendar, map, 
+menu and ordering, about, blog/review, login and SMS signup. 
+
+-User Login: Customers will be able to login and create an account. Owner will be able 
 to login and update the menu.
-Online ordering: Users will be able to place an online order and pay via PayPal.
-Map: Users will be able to view where Food Truck X is currently located.
-SMS: Users will be able to sign-up and receive promos and location updates via SMS.
+
+-Online ordering: Users will be able to place an online order and pay via PayPal.
+
+-Map: Users will be able to view where Food Truck X is currently located.
+
+-SMS: Users will be able to sign-up and receive promos and location updates via SMS.
 
 
 ### Technologies
-C#/ASP.NETCore/Razor Templates
-Entity Framework/SQL Server LocalDB
-PayPal
-SMS API
-Map API
+-C#/ASP.NETCore/Razor Templates
+
+-Entity Framework/SQL Server LocalDB
+
+-PayPal
+
+-SMS API
+
+-Map API
 
 ### What I'll Have to Learn
 Personally, I will have to learn more about APIs, their implementation and which ones would
