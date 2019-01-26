@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+- Moqups Link for Menu Wireframes https://app.moqups.com/ifamvd/qzhPSdBaNh/view/page/ad64222d5
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+- Pivotal Tracker Link https://www.pivotaltracker.com/n/projects/2240249
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+- GitHub Repo Link https://github.com/LaunchCodeLiftoffProjects/Late_Night_Snacks
